@@ -32,3 +32,15 @@ python parser.py
 
 ## Contact
 Telegram: https://t.me/zit_w
+
+## Customization
+
+This parser can be adapted for:
+- Online stores (product prices, availability)
+- News websites
+- Job listings
+- Real estate websites
+- Any public website data
+
+Freelance customization available.
+Contact me on Telegram: https://t.me/zit_w
